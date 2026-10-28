@@ -18,21 +18,27 @@ image:<img width="482" height="637" alt="image" src="https://github.com/user-att
 Once you open your case, it should look roughly like this.
 
 Motherboard
+
 A big, flat board that is usually green, blue, or black. It serves as the central connection point for all the other parts. It features plenty of circuitry, capacitors, and different kinds of sockets.
 
 CPU
+
 A small, square chip positioned near the top of your motherboard. You'll find it under the metal cooler (or occasionally a water cooling block). This tends to be the biggest component in this area.
 
 RAM
+
 Two or more thin, vertical boards. These fit into the slim slots beside your CPU. They typically come with a heatspreader.
 
 Storage
+
 An SSD, which is either a small rectangular card or a 2.5-inch box. Or you might have a heavy metal hard drive. These are generally located in bays or brackets.
 
 Power Supply
+
 This is a chunky, block-shaped metal unit. It is usually located at either the bottom or the top of your case. A number of coloured cables will be coming off it.
 
 Add-On Cards
+
 It could be a graphics card. These are long and have their own fans. They are positioned horizontally beneath the CPU. You might have other add-ons.
 
 Fans and Cables
