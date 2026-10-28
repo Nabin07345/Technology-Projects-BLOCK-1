@@ -1,7 +1,8 @@
 # Part 2 – Computer Disassembly
 ## Before Opening the Computer
 Describe the computer before opening it.
-Insert image:<img width="478" height="418" alt="image" src="https://github.com/user-attachments/assets/b1f0565a-9e2e-4c55-9ef6-b35266d00a92" />
+Insert image:<img width="241" height="241" alt="image" src="https://github.com/user-attachments/assets/bb346649-fd3d-44d8-91a7-4042f8fe2487" />
+
 
 
 A computer is an electronic machine which performs different tasks according to the set of instructions given to it.
