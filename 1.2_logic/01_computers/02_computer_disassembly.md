@@ -3,6 +3,7 @@
 Describe the computer before opening it.
 Insert image:<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/b4089302-3266-4d19-bbf1-ba690c6c1481" />
 A computer is an electronic machine which performs different tasks according to the set of instructions given to it.
+
 A computer can be described as a rectangular box consisting of smooth or rough surfaces. The box is sealed and typically made of either metal or plastic. You can identify external features such as vents, ports (such as USB, HDMI and a power port) on one or more sides of the computer, brand names and LED lights. However, there is no visibility of what is inside the computer – such as the motherboard, CPU, RAM and Storage. Overall, the computer appears as a sealed box.
 ```
 images/system/computer-before.jpg
