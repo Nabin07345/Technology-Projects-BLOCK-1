@@ -19,11 +19,11 @@ Cooling:<img width="524" height="584" alt="image" src="https://github.com/user-a
 images/components/
 ```
 
-| Component | Function | Key Specification |
-|----------|----------|------------------|
-| CPU |It processes instructions and perform calculations |Model, number of cores, clock speed. |
-| RAM |It is temporarily stores data used by running programs. |Capacity (GB), speed (MHz), and DDR type (DDR4 or DDR5). |
-| Storage |It stores the operating system, application, and files. |Capacity (GB or TB), type (SSD or HDD). |
-| Motherboard |It connects all the components of computer together. |Socket type, chipset, RAM compatibility, and expansion slots. |
-| Power Supply |It converts electricity and supplies power to the components. |Power output (watts), efficiency rating, and connectors. |
-| Cooling |It removes heat to prevents overheating. |fan size, cooling capacity. |
+| Component   | Function                                                     | Key Specification |
+|-------------|--------------------------------------------------------------|------------------|
+| CPU         |It processes instructions and perform calculations.           |Model, number of cores, clock speed. |
+| RAM         |It is temporarily stores data used by running programs.       |Capacity (GB), speed (MHz), and DDR type (DDR4 or DDR5). |
+| Storage     |It stores the operating system, application, and files.       |Capacity (GB or TB), type (SSD or HDD). |
+| Motherboard |It connects all the components of computer together.          |Socket type, chipset, RAM compatibility, and expansion slots. |
+| Power Supply|It converts electricity and supplies power to the components. |Power output (watts), efficiency rating, and connectors. |
+| Cooling     |It removes heat to prevents overheating.                      |fan size, cooling capacity. |
