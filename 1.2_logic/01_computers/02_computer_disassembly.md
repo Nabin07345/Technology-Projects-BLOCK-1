@@ -14,7 +14,8 @@ images/system/computer-before.jpg
 ## Internal Layout
 Open the computer case and observe the internal components.
 Describe what you see.
-Insert image:<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8f3066d7-334b-4da2-9150-4bc36b01788f" />
+Insert image:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/756cecf1-6a44-4f32-ab90-a605371084af" />
+
 
 image:<img width="482" height="637" alt="image" src="https://github.com/user-attachments/assets/ad75ffc4-57f5-4be9-9f45-ee12fc665dc5" />
 
