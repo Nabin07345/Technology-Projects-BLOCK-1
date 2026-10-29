@@ -17,7 +17,7 @@ Describe what you see.
 Insert image:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/756cecf1-6a44-4f32-ab90-a605371084af" />
 
 
-image:<img width="482" height="637" alt="image" src="https://github.com/user-attachments/assets/ad75ffc4-57f5-4be9-9f45-ee12fc665dc5" />
+image:<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/67b94aa9-e1e0-414c-bb28-dd82a4772267" />
 
 Once you open your case, it should look roughly like this.
 
