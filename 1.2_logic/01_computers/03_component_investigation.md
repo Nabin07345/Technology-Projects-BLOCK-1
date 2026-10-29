@@ -1,6 +1,7 @@
 # Part 3 – Component Investigation
 Photograph and investigate the following components.
 Images should be stored in:
+
 CPU:<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3b1aae6e-ad39-4cf8-9fa4-bf7d48d0f5b9" />
 
 RAM:<img width="375" height="375" alt="image" src="https://github.com/user-attachments/assets/992bab43-2893-4fb7-be10-ad761e94f001" />
