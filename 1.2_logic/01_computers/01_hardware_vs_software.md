@@ -2,10 +2,12 @@
 
 ## Explain Hardware
 Write **at least 50 words** explaining what hardware is.
+
 Ans= Hardware is the physical parts of computer which can be touch, seen, and is portable. It helps user to interact with computer functions. Hardware is used to give and take command to computer operating systems for further operation. It is used for all computer components such as input , processing, storage and output. Mouse, Keyboard, Memory,....etc are the examples of hardware.
 
 ## Explain Software
-Write **at least 50 words** explaining what software is.
+Write **at least 50 words** explaining what software is. 
+
 Ans= Software is the logical part of computer which cannot be touch, seen, and not portable. It is the logical parts of computer which controls and manage the computer system. Software is a set of instructions and program, which helps hardware to connect with computer. It is categories in two types: System Software and Application Software. MS-Excell, MS-Word, MS-Powerpoint, Operating System,....etc. are examples of software.
 
 ## How Do Hardware and Software Interact?
