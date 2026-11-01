@@ -33,3 +33,6 @@ Practise working with files and folders.
    rm file2.txt
    ```
 
+   Image: <img width="1037" height="725" alt="WhatsApp Image 2026-11-01 at 7 06 29 AM" src="https://github.com/user-attachments/assets/1ad7e30b-53e8-4681-be5c-d7eb99555e2e" />
+
+
